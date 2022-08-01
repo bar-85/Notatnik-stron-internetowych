@@ -1,6 +1,6 @@
 <template>
   <header class="header1">
-    <h1> {{ title2 }}</h1>
+    <h1>{{ title2 }}</h1>
     <h3>{{ title3 }}</h3>
   </header>
   <header class="header2">
@@ -23,7 +23,6 @@ export default {
   justify-content: space-between;
   align-items: center;
 }
-
 .header2 {
   width: 100%;
   height: 5rem;
