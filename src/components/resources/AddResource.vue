@@ -87,7 +87,6 @@ textarea:focus {
   border-color: #00b8ff;
   background-color: #d7f4ff;
 }
-
 .form-control {
   margin: 1rem 0;
 }
