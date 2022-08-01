@@ -1,9 +1,7 @@
 <template>
   <the-card>
-    <the-button @click="setSelectedTab('stored-resources')" :mode="storedButton"
-      >Zapisane strony</the-button>
-    <the-button @click="setSelectedTab('add-resource')" :mode="addButton"
-      >Dodaj stronę</the-button>
+    <the-button @click="setSelectedTab('stored-resources')" :mode="storedButton">Zapisane strony</the-button>
+    <the-button @click="setSelectedTab('add-resource')" :mode="addButton">Dodaj stronę</the-button>
   </the-card>
   <keep-alive>
     <component :is="selectedTab"></component>
