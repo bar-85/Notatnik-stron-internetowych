@@ -28,18 +28,16 @@ button:active {
   box-shadow: 0  0 5px #00378a;
   color: white;
 }
-
 .flat {
   background-color: transparent;
   color: black;
   border: 1px solid #3a0061;
   margin: 5px;
 }
-
 .flat:hover,
 .flat:active {
   background-color: #00b8ff;
   border: 1px solid #3a0061;
 }
 </style>
->
+
