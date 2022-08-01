@@ -10,7 +10,6 @@
 import TheHeader from './components/header/TheHeader.vue';
 import TheResources from './components/resources/TheResources.vue';
 
-
 export default {
   components: {
     TheHeader,
