@@ -1,4 +1,3 @@
-
 <h1 align="center"> NOTEK-NET. </h >
 <br />
 <h2 align="center"> NOTATNIK STRON INTERNETOWYCH  </h2>
