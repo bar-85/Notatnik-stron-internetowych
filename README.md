@@ -3,7 +3,6 @@
 <br />
 <h2 align="center"> NOTATNIK STRON INTERNETOWYCH  </h2>
 <br />
-<br />
 Stronę można zobaczyć pod adresem: https://notek-net.netlify.app/
 <br />
 <br />
