@@ -7,6 +7,7 @@
 Stronę można zobaczyć pod adresem: https://notek-net.netlify.app/
 <br />
 <br />
+<br />
 <h2 align="left"> Technologie: </h2>
 HTML 
 <br />
