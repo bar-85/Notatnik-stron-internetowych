@@ -1,6 +1,5 @@
 <h1 align="center"> NOTEK-NET. </h >
 <br />
-<br />
 <h2 align="center"> NOTATNIK STRON INTERNETOWYCH  </h2>
 <br />
 Stronę można zobaczyć pod adresem: https://notek-net.netlify.app/
