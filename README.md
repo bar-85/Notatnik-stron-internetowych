@@ -5,11 +5,11 @@
 Stronę można zobaczyć pod adresem: https://notek-net.netlify.app/
 <br />
 <h2 align="left"> Technologie: </h2>
-HTML 
+* HTML 
 <br />
-CSS
+* CSS
 <br />
-JavaScript / Vue3
+* JavaScript / Vue3
 <br />
 <br />
 
