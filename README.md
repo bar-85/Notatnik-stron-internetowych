@@ -17,7 +17,7 @@ Stronę można zobaczyć pod adresem: https://notek-net.netlify.app/
 <br />
 
 
-![Screenshot_12](https://user-images.githubusercontent.com/105555319/184507509-a1cb0239-48fc-40bd-95f0-e803c9e3e63d.png)
+![Screenshot_18](https://user-images.githubusercontent.com/105555319/184507635-e88696a7-4502-4133-96ae-d1d71711c4ca.png)
 <br />
 ![Screenshot_9](https://user-images.githubusercontent.com/105555319/184506915-959d9f91-b142-4b09-82ab-59f0603087e4.png)
 <br />
