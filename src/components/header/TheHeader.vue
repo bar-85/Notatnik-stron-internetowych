@@ -44,7 +44,7 @@ header h1 {
 header h2 {
   color: black;
   margin: 1px;
-  text-shadow: 0px 1px 4px rgb(0, 149, 235);
+  text-shadow: 0px 1px 2px rgb(0, 149, 235);
   cursor: pointer;
 }
 
