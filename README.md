@@ -17,15 +17,19 @@ Stronę można zobaczyć pod adresem: https://notek-net.netlify.app/
 <br />
 
 
-![Screenshot_15](https://user-images.githubusercontent.com/105555319/182258151-8c463cbc-a8e4-47a8-bb30-8eebd055d5ff.png)
+![Screenshot_8](https://user-images.githubusercontent.com/105555319/184506905-8b431c2e-d47d-428e-9c4e-320e62ffcc1b.png)
+
 <br />
 <br />
-![Screenshot_14](https://user-images.githubusercontent.com/105555319/182258756-38586357-f64d-46fb-9eb4-8bbb3f59f031.png)
+![Screenshot_9](https://user-images.githubusercontent.com/105555319/184506915-959d9f91-b142-4b09-82ab-59f0603087e4.png)
+
 <br />
 <br />
-![Screenshot_10](https://user-images.githubusercontent.com/105555319/182258606-ed639d8e-289c-41c5-9d16-d308d87c4d44.png)
+![Screenshot_10](https://user-images.githubusercontent.com/105555319/184506924-61ab2b2e-b04e-4061-9311-08e8c99ed8e4.png)
+
 <br />
 <br />
-![Screenshot_12](https://user-images.githubusercontent.com/105555319/182258700-f3e0062b-3586-4b60-b9d2-b2a0b9f91c43.png)
+![Screenshot_11](https://user-images.githubusercontent.com/105555319/184506933-24b3a909-8824-49c6-a45a-482407155124.png)
+
 
 
