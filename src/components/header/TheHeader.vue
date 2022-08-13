@@ -36,7 +36,7 @@ export default {
 header h1 {
   color:black;
   margin: 20px;
-  text-shadow: 0px 4px 6px rgba(255, 255, 255, 1);
+  text-shadow: 0px 2px 6px rgba(255, 255, 255, 1);
   cursor: pointer;
   
 }
@@ -44,7 +44,7 @@ header h1 {
 header h2 {
   color: black;
   margin: 1px;
-  text-shadow: 0px 1px 9px rgb(0, 149, 235);
+  text-shadow: 0px 1px 4px rgb(0, 149, 235);
   cursor: pointer;
 }
 
