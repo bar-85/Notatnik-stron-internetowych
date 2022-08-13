@@ -15,29 +15,25 @@ button {
   padding: 0.50rem 1rem;
   font-family: inherit;
   background-color: #00b8ff;
-  border: 1px solid #3a0061;
-  border-radius: 15px;
+  border: 1px solid #00b8ff;
+  border-radius: 7px;
   color: black;
   cursor: pointer;
 }
 
 button:hover,
 button:active {
-  background-color: #0654c8;
-  border-color: #270041;
-  box-shadow: 0  0 5px #00378a;
+  background-color: #009ad6;
+  border: 1px solid #00b8ff;
+  box-shadow: 0  0 2px #00b8ff;
   color: white;
 }
 .flat {
   background-color: transparent;
   color: black;
-  border: 1px solid #3a0061;
+  border: 1px solid #00b8ff;
   margin: 5px;
 }
-.flat:hover,
-.flat:active {
-  background-color: #00b8ff;
-  border: 1px solid #3a0061;
-}
+
 </style>
 
