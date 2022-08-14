@@ -38,7 +38,6 @@ header h1 {
   margin: 20px;
   text-shadow: 0px 2px 6px rgba(255, 255, 255, 1);
   cursor: pointer;
-  
 }
 
 header h2 {
