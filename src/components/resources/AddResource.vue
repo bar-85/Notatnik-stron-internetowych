@@ -46,7 +46,6 @@ export default {
       const enteredTitle = this.$refs.titleInput.value;
       const enteredDescription = this.$refs.descInput.value;
       const enteredUrl = this.$refs.linkInput.value;
-
       if (
         enteredTitle.trim() === '' ||
         enteredDescription.trim() === '' ||
@@ -55,7 +54,6 @@ export default {
         this.inputIsInvalid = true;
         return;
       }
-
       this.addResource(enteredTitle, enteredDescription, enteredUrl);
     },
     confirmError() {
@@ -87,6 +85,7 @@ textarea:focus {
   border-color: #00b8ff;
   background-color: #d7f4ff;
 }
+
 .form-control {
   margin: 1rem 0;
 }
