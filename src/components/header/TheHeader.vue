@@ -18,7 +18,7 @@ export default {
 .header1 {
   width: 100%;
   height: 4rem;
-  background-color: #0095eb;
+  background-color: #93dbfa;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -36,14 +36,14 @@ export default {
 header h1 {
   color:black;
   margin: 20px;
-  text-shadow: 0px 2px 6px rgba(255, 255, 255, 1);
+  text-shadow: 0px 1px 2px rgba(255, 255, 255, 1);
   cursor: pointer;
 }
 
 header h2 {
   color: black;
   margin: 1px;
-  text-shadow: 0px 1px 2px rgb(0, 149, 235);
+  text-shadow: 0px 0px 1px rgb(64, 180, 248);
   cursor: pointer;
 }
 

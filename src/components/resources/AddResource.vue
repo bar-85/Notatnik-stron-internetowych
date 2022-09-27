@@ -77,13 +77,15 @@ textarea {
   font: inherit;
   padding: 0.15rem;
   border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #ecf9ff;
 }
 
 input:focus,
 textarea:focus {
   outline: none;
-  border-color: #00b8ff;
-  background-color: #d7f4ff;
+  border-color: #4dccff;
+  background-color: #e0f7ff;
 }
 
 .form-control {

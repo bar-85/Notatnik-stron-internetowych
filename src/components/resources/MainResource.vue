@@ -43,11 +43,11 @@ p {
 
 a {
   text-decoration: none;
-  color: #0051ff;
+  color: #0ea6e2;
 }
 
 a:hover,
 a:active {
-  color: #00b8ff;
+  color: #1ebbff;
 }
 </style>

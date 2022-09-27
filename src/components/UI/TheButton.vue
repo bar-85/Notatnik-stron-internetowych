@@ -14,7 +14,7 @@ export default {
 button {
   padding: 0.50rem 1rem;
   font-family: inherit;
-  background-color: #00b8ff;
+  background-color: #93dbfa;
   border: 1px solid #00b8ff;
   border-radius: 7px;
   color: black;
@@ -23,15 +23,15 @@ button {
 
 button:hover,
 button:active {
-  background-color: #009ad6;
+  background-color: #6cccf2;
   border: 1px solid #00b8ff;
   box-shadow: 0  0 2px #00b8ff;
-  color: white;
+
 }
 .flat {
   background-color: transparent;
   color: black;
-  border: 1px solid #00b8ff;
+  border: 1px solid #57d0ff;
   margin: 5px;
 }
 
