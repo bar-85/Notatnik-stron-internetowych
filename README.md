@@ -16,15 +16,19 @@ Stronę można zobaczyć pod adresem: https://notek-net.netlify.app/
 <br />
 
 
-![Screenshot_19](https://user-images.githubusercontent.com/105555319/184507741-0cce4908-b757-439d-9ccf-530a8437be43.png)
+![Screenshot_6](https://user-images.githubusercontent.com/105555319/192406870-e44daa18-b029-405d-ab5c-ee083136146f.png)
 <br />
-![Screenshot_9](https://user-images.githubusercontent.com/105555319/184506915-959d9f91-b142-4b09-82ab-59f0603087e4.png)
+![Screenshot_7](https://user-images.githubusercontent.com/105555319/192406901-5218eb46-d270-4388-ba38-436b7718dd73.png)
 <br />
-![Screenshot_20](https://user-images.githubusercontent.com/105555319/184507769-441f64a5-fd59-4545-ba94-a0d96bf02c46.png)
+![Screenshot_10](https://user-images.githubusercontent.com/105555319/192406927-e30fbd37-c4a5-4e54-8b56-32a6d1a0647f.png)
 <br />
-![Screenshot_21](https://user-images.githubusercontent.com/105555319/184507796-f2bb5dca-f971-4b48-a320-b5d83198effd.png)
+![Screenshot_8](https://user-images.githubusercontent.com/105555319/192406945-1c921df8-8755-465f-836b-9bc572c36ac2.png)
 <br />
-![Screenshot_22](https://user-images.githubusercontent.com/105555319/184507800-8ad91f97-294f-418f-9d3b-7b48b3a898e2.png)
+![Screenshot_9](https://user-images.githubusercontent.com/105555319/192406968-f685a795-17a0-4e66-a9db-16fea44b1b8a.png)
+
+
+
+
 
 
 
