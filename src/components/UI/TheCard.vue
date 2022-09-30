@@ -7,7 +7,7 @@
 <style scoped>
 div {
   text-align: center;
-  background-color:aliceblue;
+  background-color:rgb(246, 251, 255);
   border-radius: 12px;
   box-shadow: 0px 2px 10px -4px rgb(0, 0, 0);
   padding: 1rem;
